@@ -2,12 +2,16 @@
 
 Le projet est de réaliser une page Minitel à l'aide d'un photo en surimpression afin de reconstituer des pages Minitel non-archivées.
 
-L'exemple princeps est celui de l'élection de Mitterand en 1981. L'image a été tirée de la vidéo de l'INA.
+L'exemple princeps est celui de l'élection de Mitterand en 1981. L'image a été tirée de la vidéo de l'INA :
+
+http://www.ina.fr/video/I00002041
 
 Touche clavier :
 
 g : pour faire apparaître une grille afin d'aider dans la disposition des caractères graphiques
+
 espace : pour faire apparaître ou disparaître l'image originale
+
 i : pour créer une image de notre réalisation
 
 s : pour sauvegarder le travail en cours
